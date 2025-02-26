@@ -38,6 +38,7 @@ dependencies:
   http4: ^0.0.4
   shared_preferences: ^2.5.2
   home_widget: ^0.7.0+1
+  google_fonts: ^6.2.1
 
 dev_dependencies:
   flutter_test:
